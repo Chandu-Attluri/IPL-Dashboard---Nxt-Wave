@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.not-found-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.not-found-text {
+  font-family: 'Bree Serif';
+  color: #ffffff;
+  font-size: 28px;
+}
